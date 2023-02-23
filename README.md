@@ -4,7 +4,7 @@
 **GOAL**: Add a method to Runway class to remove plans and create tests for the Runway class.
 
 ## Directions
-1. Run `npm install` to install all the dependencies
+1. Run `npm install` to install all the dependencies[X]
 2. Add the ability to remove planes from the runway
 3. Link your `Runway` class file and your Runway test file
 4. Write a test suite for the `Runway` class
